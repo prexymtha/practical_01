@@ -42,7 +42,7 @@ Use the FRED API key and indicator names to source the time series.
 
 ``` r
 # Set your FRED API key - obtain from https://fredaccount.stlouisfed.org/apikey
-fredr_set_key("ec84f06f1b178b454f2923dc06f22591")
+fredr_set_key("INSERT OWN API KEY") # I removed your personal API for security reasons , see comments sent via email."
 
 # Fetch Chile and Argentina Gini Coefficients
 
